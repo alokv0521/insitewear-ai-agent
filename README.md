@@ -1,6 +1,6 @@
 # InsiteWear Ai agent 
 
-A modern, responsive AI chat interface with integrated web search functionality. Insitewear-AI provides a clean ui , combining conversational AI with real-time search capabilities
+A modern, responsive AI chat interface(not a typical chat-bot) with integrated web search functionality. Insitewear-AI provides a clean ui, combining conversational AI with real-time search capabilities
 
 <img width="1304" height="810" alt="image" border-radius=25px src="https://github.com/user-attachments/assets/c6b4e872-59a4-4479-91e2-7961033a2468" />
 
